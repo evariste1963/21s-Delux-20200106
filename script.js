@@ -93,6 +93,7 @@ let image_arr = [
 let shuffledPack = image_arr;
 console.log(shuffledPack);
 console.log(card12);
+console.log('hi');
 let scores,
   img,
   sticks,
