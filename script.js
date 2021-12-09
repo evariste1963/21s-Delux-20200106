@@ -91,7 +91,8 @@ let image_arr = [
   '01AS.png',
 ];
 let shuffledPack = image_arr;
-
+console.log(shuffledPack);
+console.log(card12);
 let scores,
   img,
   sticks,
