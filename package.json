@@ -1,0 +1,23 @@
+{
+  "name": "21sdelux",
+  "version": "1.0.0",
+  "description": "pontoon game",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "run": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evariste1963/21s-Delux-20200106.git"
+  },
+  "author": "evaristeGalois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evariste1963/21s-Delux-20200106/issues"
+  },
+  "homepage": "https://github.com/evariste1963/21s-Delux-20200106#readme",
+  "dependencies": {
+    "parcel": "^2.0.1"
+  }
+}
